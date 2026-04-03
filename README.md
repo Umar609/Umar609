@@ -25,7 +25,7 @@ ________________________________________________________________________________
 🧩 Projects
 I’m currently working on several projects, exploring different technologies to push my limits and broaden my understanding.
 ⭐ Favourite Project:
-A Physical Media Tracking App — the project I’ve invested the most time into so far.
+A Physical Media Tracking App, the project I’ve invested the most time into so far.
 
 _____________________________________________________________________________________________________________________________________________
 
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 🎉 Fun Facts
 - I’ve lived exactly half my life in two different countries with distinct cultures (this balance shifts as I get older!)
   
-- I’m passionate about cars and motorsports — especially Formula 1 
+- I’m passionate about cars and motorsports, especially Formula 1 
 Favourite teams: Red Bull Racing & Williams
 
-- I love photography—for the places it takes me, the memories I capture, and the editing process
+- I love photography for the places it takes me, the memories I capture, and the editing process
