@@ -1,22 +1,45 @@
-## Hello there! 🙋‍♂️
+👋 Hello there!
 
-My name is Umar, an asipiring software engineering based in Melbourne!
+I'm Umar, an aspiring Software Engineer based in Melbourne, Australia
 
-I love to design and build anything that comes to mind and bring those ideas to life.
+I enjoy designing and building anything that comes to mind and turning ideas into real, working projects. If something feels useful or entertaining to me or the people around me, I’ll try to create it.
 
-If it is useful or entertaining to me or my loved ones lives I will attempt to create it. 
+_____________________________________________________________________________________________________________________________________________
 
-My main tech stack is:
+🚀 About Me
+- Passionate about building creative and practical solutions
+- Always experimenting with new technologies and ideas
+- Focused on expanding my knowledge across multiple tech stacks
+  
+_____________________________________________________________________________________________________________________________________________
+
+🧰 Tech Stack
+Main technologies I work with:
 - React
 - Java
 - Python
-- Tailwind
+- Tailwind CSS
 
-I am in the process of developing a few project, but my favourite one that I jave the most time invested in is my Physical Media tracking project.
+_____________________________________________________________________________________________________________________________________________
 
-I am trying to have many projects in as many tech stacks as possible to push my limits and broaden my knowledge and understanding.
+🧩 Projects
+I’m currently working on several projects, exploring different technologies to push my limits and broaden my understanding.
+⭐ Favourite Project:
+A Physical Media Tracking App — the project I’ve invested the most time into so far.
 
-Here are a few fun facts:
-- I have lived exactly half of my life in two different countries with two different cultures. (balance changesas I become older)
-- I love cars and anything to do with cars and racing. My current favourite F1 team is Redbull and Williams.
-- I love photography because of the places it takes me and the memories I can capture (as well as the editing)
+_____________________________________________________________________________________________________________________________________________
+
+🎯 Goals
+- Build projects across diverse tech stacks
+- Strengthen problem-solving and system design skills
+- Continuously learn and improve as a developer
+
+_____________________________________________________________________________________________________________________________________________
+
+🎉 Fun Facts
+- I’ve lived exactly half my life in two different countries with distinct cultures (this balance shifts as I get older!)
+  
+- I’m passionate about cars and motorsports — especially Formula 1 
+Favourite teams: Red Bull Racing & Williams
+
+- I love photography—for the places it takes me, the memories I capture, and the editing process
